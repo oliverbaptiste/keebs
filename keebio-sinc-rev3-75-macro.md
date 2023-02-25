@@ -7,7 +7,7 @@
 ---
 
 * Rotary encoder in corner on each side.
-* Sun fun cluster (except for <kbd>Help</kbd> key) on macro keys 
+* Sun fun cluster (except for <kbd>Help</kbd>) on macro section
 
 ## Keycaps
 
