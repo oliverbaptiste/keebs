@@ -1,6 +1,6 @@
 # Keebio _Quefrency Rev. 4_ - 60%
 
-![Keebio Quefrency Rev. 4 - 60% layout](keebio-quefrency-rev4-60.png)
+![Keebio Quefrency Rev. 4 - 60% layout](images/keebio-quefrency-rev4-60.png)
 
 <http://www.keyboard-layout-editor.com/#/gists/69eaf79c79cee5e88ad23d3aa2c4c905>
 

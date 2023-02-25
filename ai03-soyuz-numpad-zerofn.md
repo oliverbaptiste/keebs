@@ -1,6 +1,6 @@
 # ai03 <em>Soyuz</em> numpad - ZeroFn layout
 
-![Soyuz numpad 18-key layout](ai03-soyuz-numpad.png) ![ai0s Soyuz numpad - ZeroFn layer](ai03-soyuz-numpad-zerofn.png)
+![Soyuz numpad 18-key layout](images/ai03-soyuz-numpad.png) ![ai0s Soyuz numpad - ZeroFn layer](ai03-soyuz-numpad-zerofn.png)
 
 <http://www.keyboard-layout-editor.com/#/gists/1d3a53dbff4ec23c2ccb529c8483dda7>
 
