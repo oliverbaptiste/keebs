@@ -18,9 +18,11 @@
 * <kbd>Backspace</kbd> on <kbd>Enter</kbd>
 * <kbd>Tab</kbd> on <kbd>+</kbd>
 * <kbd>Space</kbd> on <kbd>&minus;</kbd>
-* traditional 10-key navigation cluster
-  * no <kbd>Insert</kbd> key
-* additional characters:
+* 10-key nav cluster:
+  * Arrow keys
+  * <kbd>Del</kbd> <kbd>Home</kbd> <kbd>End</kbd> <kbd>Page Up</kbd> <kbd>Page Down</kbd>
+    * No access to <kbd>Insert</kbd> key
+* Additional math characters:
   * multiplication sign: <kbd>&times;</kbd> on <kbd>*</kbd>
   * percent sign: <kbd>%</kbd> on <kbd>5</kbd>
   * left parenthesis: <kbd>(</kbd>  on <kbd>=</kbd>
