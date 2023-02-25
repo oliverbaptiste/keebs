@@ -1,4 +1,4 @@
-# Keebio Quefrency _Rev. 2_ - 65%
+# Keebio _Quefrency Rev. 2_ - 65%
 
 ![Keebio Quefrency Rev. 2 - 65% layout](keebio-quefrency-rev2-65.png)
 
