@@ -12,16 +12,38 @@ Uses [Quefrency Rev. 4](https://keeb.io/collections/quefrency-split-staggered-65
 
 ## Rationale
 
-I have been using split keyboards for a couple years now, starting with the Kinesis Freestyle RGB. I've since started building my own boards from kits ordered online from Keebio.
+I have been using split keyboards since 2019 to combat RSI, starting with the [Kinesis Freestyle RGB](https://gaming.kinesis-ergo.com/edge/). I soon started building my own custom boards using kits from [Keebio](https://keeb.io).
 
-This layout is what I am currently using on my daily driver: a red PCB demo unit of the Quefrency. It doesn't support split backspace and the physical dimensions are off from the production models, but was perfect to adapt to this setup using VIA.
+This is the layout of my current daily driver: a red [Quefrency Rev. 4](https://keeb.io/collections/keyboard-pcbs/products/quefrency-rev-4-65-split-staggered-keyboard) demo unit. The PCB doesn't support split backspace — and dimensions are a little off from the production model — but has hotswap sockets, underglow lighting, [QMK](https://qmk.fm/) firmware, and [VIA](https://www.caniusevia.com/) support.
 
-Most macOS keyboards with only two right-side modifiers choose <kbd>Command</kbd> <kbd>Option</kbd>. I prefer <kbd>Control</kbd> on both corners of my bottom row because I use a lot of the Emacs motion shortcuts available in most all text fields on Mac.
+Bottom row keys are center-aligned, leaving blockers on both bottom corners.
 
-<kbd>Caps Lock</kbd> &mdash; not <kbd>Control</kbd>  &mdash; is the 1.75u key
-located to the left of <kbd>A</kbd>. Ideally this key would be stepped.
+Most macOS keyboards with only two right-side modifiers put <kbd>Command</kbd> and <kbd>Option</kbd> there. I prefer <kbd>Option</kbd> and <kbd>Control</kbd> instead, because I commonly use motion shortcuts in Emacs and most macOS text fields.
 
-I also included two keys that aren't commonly used on macOS but useful were I ever to troubleshoot boot on a  Windows or Linux machine: <kbd>Print Screen</kbd> /<kbd>SysRq</kbd>, and <kbd>Pause</kbd>/<kbd>Break</kbd>. These get seen as <kbd>F13</kbd> and <kbd>F15</kbd> respectively on macOS.
+I don't like the HHKB-style <kbd>Control</kbd> key in the home row. When typing <kbd>Control</kbd>-<kbd>A</kbd> for instance, the left pinky moves off of <kbd>A</kbd>. I prefer using a bottom row modifier on the opposite side of the key I'm pressing.
+
+Since I use left & right <kbd>Control</kbd> keys, <kbd>Caps Lock</kbd> remains located to the left of <kbd>A</kbd>. Ideally, this key would be stepped.
+
+I would prefer to have a right <kbd>Command</kbd> key, but having <kbd>Command</kbd> so close to my left thumb works is very convenient.
+
+-----
+
+![Apple M0110 keyboard](https://www.keebtalk.com/uploads/db8059/original/2X/b/b902a0358f201db318168e18d4d7f273e29f2478.jpeg)
+
+The first Macintosh keyboard had a single 1.5u <kbd>Command</kbd> key. An <kbd>Enter</kbd> key was to the right of the spacebar for some reason.
+
+It has no <kbd>Control</kbd> keys, and the <kbd>Command</kbd>-<kbd>.</kbd> shortcut likely made up for the lack of an <kbd>Esc</kbd> key.
+
+-----
+
+I type <kbd>Space</kbd> primarily with my right thumb, so holding the left spacebar activates the <kbd>Fn</kbd> layer.
+
+I also added access to keys I might need were I ever to troubleshoot a Windows or Linux machine:
+
+* <kbd>Print Screen</kbd> • <kbd>SysRq</kbd>
+* <kbd>Pause</kbd> • <kbd>Break</kbd>
+  
+On macOS, these keys are  <kbd>F13</kbd> and <kbd>F15</kbd>, respectively.
 
 ## Layout
 
@@ -44,8 +66,8 @@ I also included two keys that aren't commonly used on macOS but useful were I ev
   * <kbd>Space</kbd> on <kbd>B</kbd>
 * Layout also influenced by the <strong>Happy Hacking Keyboard</strong>:
   * Three (3) keyswitch locations left empty for bottom row blockers:
-    * 1.25u on left
-    * 2.5u on right
+    * 1.25u left blocker
+    * 2.5u right blocker
   * 1u <kbd>Fn</kbd> key next to Right <kbd>Shift</kbd>
   * Numpad <kbd>Enter</kbd> on <kbd>Return</kbd>
   * Additional arrow cluster:
@@ -62,3 +84,7 @@ I also included two keys that aren't commonly used on macOS but useful were I ev
   * Left <kbd>Space</kbd> (2.25u)
   * <kbd>Return</kbd> (2.25u)
   * Right <kbd>Space</kbd> (2.75u)
+
+-----
+
+_Last Updated:_ 2022-02-27
