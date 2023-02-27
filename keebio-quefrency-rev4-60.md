@@ -16,23 +16,25 @@ I have been using split keyboards since 2019 to combat RSI, starting with the [K
 
 This is the layout of my current daily driver: a red [Quefrency Rev. 4](https://keeb.io/collections/keyboard-pcbs/products/quefrency-rev-4-65-split-staggered-keyboard) demo unit. The PCB doesn't support split backspace — and dimensions are a little off from the production model — but has hotswap sockets, underglow lighting, [QMK](https://qmk.fm/) firmware, and [VIA](https://www.caniusevia.com/) support.
 
-Bottom row keys are center-aligned, leaving blockers on both bottom corners.
+Bottom row keys are center-aligned, leaving blockers on both corners.
 
 Most macOS keyboards with only two right-side modifiers put <kbd>Command</kbd> and <kbd>Option</kbd> there. I prefer <kbd>Option</kbd> and <kbd>Control</kbd> instead, because I commonly use motion shortcuts in Emacs and most macOS text fields.
 
-I don't like the HHKB-style <kbd>Control</kbd> key in the home row. When typing <kbd>Control</kbd>-<kbd>A</kbd> for instance, the left pinky moves off of <kbd>A</kbd>. I prefer using a bottom row modifier on the opposite side of the key I'm pressing.
+**I don't like the placement of the <kbd>Control</kbd> key in the HHKB layout.** When typing <kbd>Ctrl</kbd>-<kbd>A</kbd> for instance, the little finger moves to <kbd>Ctrl</kbd> and <kbd>A</kbd> and is hit with the ring finger. My left pinky is my weakest finger, so holding and releasing a modifier with that lateral movement actually causes me “Emacs pinky” pain.
 
-Since I use left & right <kbd>Control</kbd> keys, <kbd>Caps Lock</kbd> remains located to the left of <kbd>A</kbd>. Ideally, this key would be stepped.
+I prefer using the <kbd>Shift</kbd> and bottom-row mods on the opposite side of the alphanumeric key I'm pressing. Since I use <kbd>Control</kbd> keys on each corner, <kbd>Caps Lock</kbd> remains located to the left of <kbd>A</kbd>.
 
-I would prefer to have a right <kbd>Command</kbd> key, but having <kbd>Command</kbd> so close to my left thumb works is very convenient.
+I would prefer to have a right <kbd>Command</kbd> key, but the center-aligned bottom row compensates by putting <kbd>⌘</kbd>  conveniently below my left thumb.
 
 -----
 
+## Another influence: the _Apple M0110_
+
 ![Apple M0110 keyboard](https://www.keebtalk.com/uploads/db8059/original/2X/b/b902a0358f201db318168e18d4d7f273e29f2478.jpeg)
 
-The first Macintosh keyboard had a single 1.5u <kbd>Command</kbd> key. An <kbd>Enter</kbd> key was to the right of the spacebar for some reason.
+The first _Macintosh_ & _Lisa_ keyboards — with those beautiful blockers that inspired the HHKB — had a single 1.5u <kbd>Command</kbd> key. A 1.5u <kbd>Enter</kbd> key was next to the right <kbd>Option</kbd> key for some reason. (I remember PowerBooks had <kbd>Enter</kbd> keys in the bottom row as well.)
 
-It has no <kbd>Control</kbd> keys, and the <kbd>Command</kbd>-<kbd>.</kbd> shortcut likely made up for the lack of an <kbd>Esc</kbd> key.
+The M0110 had no <kbd>Control</kbd> keys though, and instead of an <kbd>Esc</kbd> key, <kbd>Command</kbd>-<kbd>.</kbd> likely sufficed.
 
 -----
 
@@ -79,11 +81,11 @@ On macOS, these keys are  <kbd>F13</kbd> and <kbd>F15</kbd>, respectively.
 * Lighting control:
   * <kbd>Toggle On/Off</kbd> & <kbd>Next Mode</kbd> on <kbd>Tab</kbd> and <kbd>Q</kbd>
 * Five (5) stabilized keys:
-  * <kbd>Backspace</kbd> (2u)
-  * Left <kbd>Shift</kbd> (2.25u)
-  * Left <kbd>Space</kbd> (2.25u)
-  * <kbd>Return</kbd> (2.25u)
-  * Right <kbd>Space</kbd> (2.75u)
+  * 2u <kbd>Backspace</kbd>
+  * 2.25u <kbd>Return</kbd>
+  * 2.25u left <kbd>Shift</kbd>
+  * 2.25u left spacebar
+  * 2.75u right spacebar
 
 -----
 
