@@ -16,7 +16,10 @@ I have been using split keyboards for a couple years now, starting with the Kine
 
 This layout is what I am currently using on my daily driver: a red PCB demo unit of the Quefrency. It doesn't support split backspace and the physical dimensions are off from the production models, but was perfect to adapt to this setup using VIA.
 
-Most macOS keyboards with only two right-side modifiers choose <kbd>Command</kbd> <kbd>Option</kbd>. I prefer to have <kbd>Control</kbd> on both corners of my bottom row. to a because I use a lot of the Emacs motion shortcuts available in most all text fields on Mac.
+Most macOS keyboards with only two right-side modifiers choose <kbd>Command</kbd> <kbd>Option</kbd>. I prefer <kbd>Control</kbd> on both corners of my bottom row because I use a lot of the Emacs motion shortcuts available in most all text fields on Mac.
+
+<kbd>Caps Lock</kbd> &mdash; not <kbd>Control</kdb>  &mdash; is the 1.75u key
+located to the left of <kbd>A</kbd>. Ideally this key would be stepped.
 
 I also included two keys that aren't commonly used on macOS but useful were I ever to troubleshoot boot on a  Windows or Linux machine: <kbd>Print Screen</kbd> /<kbd>SysRq</kbd>, and <kbd>Pause</kbd>/<kbd>Break</kbd>. These get seen as <kbd>F13</kbd> and <kbd>F15</kbd> respectively on macOS.
 
