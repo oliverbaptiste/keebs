@@ -32,9 +32,11 @@ I would prefer to have a right <kbd>Command</kbd> key, but the center-aligned bo
 
 ![Apple M0110 keyboard](https://www.keebtalk.com/uploads/db8059/original/2X/b/b902a0358f201db318168e18d4d7f273e29f2478.jpeg)
 
-The first _Macintosh_ & _Lisa_ keyboards — with those beautiful blockers that inspired the HHKB — had a single 1.5u <kbd>Command</kbd> key. A 1.5u <kbd>Enter</kbd> key was next to the right <kbd>Option</kbd> key for some reason. (I remember PowerBooks had <kbd>Enter</kbd> keys in the bottom row as well.)
+The first _Macintosh_ keyboards — with those beautiful blockers that inspired the HHKB — had a single left <kbd>Command</kbd> key.
 
-The M0110 had no <kbd>Control</kbd> keys though, and instead of an <kbd>Esc</kbd> key, <kbd>Command</kbd>-<kbd>.</kbd> likely sufficed.
+An <kbd>Enter</kbd> key — distinct from <kbd>Return</kbd> — was next to the right <kbd>Option</kbd> key for some reason. I remember PowerBooks had <kbd>Enter</kbd> keys in the bottom row as well.
+
+The M0110 had no <kbd>Control</kbd> keys though, and instead of an <kbd>Esc</kbd> key, the shortcut <kbd>Command</kbd>-<kbd>.</kbd> likely sufficed.
 
 -----
 
