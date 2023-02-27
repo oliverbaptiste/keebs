@@ -1,5 +1,7 @@
 # Keebio _Quefrency Rev. 4_ - 60%
 
+![Keebio Quefrency Rev. 4 keyboard in 60% layout with Drop + biip MT3 Extended 2048 keycaps](images/keebio-quefrency-rev4-60.jpg)
+
 ![Keebio Quefrency Rev. 4 - 60% layout](images/keebio-quefrency-rev4-60.png)
 
 KLE layout: <http://www.keyboard-layout-editor.com/#/gists/69eaf79c79cee5e88ad23d3aa2c4c905>
@@ -20,11 +22,11 @@ Bottom row keys are center-aligned, leaving blockers on both corners.
 
 Most macOS keyboards with only two right-side modifiers put <kbd>Command</kbd> and <kbd>Option</kbd> there. I prefer <kbd>Option</kbd> and <kbd>Control</kbd> instead, because I commonly use motion shortcuts in Emacs and most macOS text fields.
 
-**I don't like the placement of the <kbd>Control</kbd> key in the HHKB layout.** When typing <kbd>Ctrl</kbd>-<kbd>A</kbd> for instance, the little finger moves to <kbd>Ctrl</kbd> and <kbd>A</kbd> and is hit with the ring finger. My left pinky is my weakest finger, so holding and releasing a modifier with that lateral movement actually causes me “Emacs pinky” pain.
+**I don't like the placement of the <kbd>Control</kbd> key in the HHKB layout.** When typing <kbd>Ctrl</kbd>-<kbd>A</kbd> for instance, the little finger moves to <kbd>Ctrl</kbd>, and <kbd>A</kbd> is hit with the ring finger. My left pinky is my weakest finger, so holding and releasing a modifier with that lateral movement actually causes “Emacs pinky” pain.
 
 I prefer using the <kbd>Shift</kbd> and bottom-row mods on the opposite side of the alphanumeric key I'm pressing. Since I use <kbd>Control</kbd> keys on each corner, <kbd>Caps Lock</kbd> remains located to the left of <kbd>A</kbd>.
 
-I would prefer to have a right <kbd>Command</kbd> key, but the center-aligned bottom row compensates by putting <kbd>⌘</kbd>  conveniently below my left thumb.
+I would prefer to have a right <kbd>Command</kbd> key, but the center-aligned bottom row compensates by putting <kbd>⌘</kbd> conveniently below my left thumb.
 
 -----
 
