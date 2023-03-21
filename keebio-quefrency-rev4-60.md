@@ -20,13 +20,13 @@ This is the layout of my current daily driver: a red [Quefrency Rev. 4](https://
 
 Bottom row keys are center-aligned, leaving blockers on both corners.
 
-Most macOS keyboards with only two right-side modifiers put <kbd>Command</kbd> and <kbd>Option</kbd> there. I prefer <kbd>Option</kbd> and <kbd>Control</kbd> instead, because I commonly use motion shortcuts in Emacs and most macOS text fields.
+**I do not like the placement of the <kbd>Control</kbd> key in the HHKB layout.** When typing <kbd>Ctrl</kbd>-<kbd>A</kbd> for instance, the little finger moves to <kbd>Ctrl</kbd>, and <kbd>A</kbd> is hit with the ring finger. My left pinky is my weakest finger, so holding and releasing a modifier with that lateral movement actually causes “Emacs pinky” pain.
 
-**I don't like the placement of the <kbd>Control</kbd> key in the HHKB layout.** When typing <kbd>Ctrl</kbd>-<kbd>A</kbd> for instance, the little finger moves to <kbd>Ctrl</kbd>, and <kbd>A</kbd> is hit with the ring finger. My left pinky is my weakest finger, so holding and releasing a modifier with that lateral movement actually causes “Emacs pinky” pain.
+Most macOS keyboards with only two bottom row right modifiers put <kbd>Command</kbd> and <kbd>Option</kbd> there. I prefer <kbd>Option</kbd> and <kbd>Control</kbd> for Emacs-style motion shortcuts and key bindings.
 
-I prefer using the <kbd>Shift</kbd> and bottom-row mods on the opposite side of the alphanumeric key I'm pressing. Since I use <kbd>Control</kbd> keys on each corner, <kbd>Caps Lock</kbd> remains located to the left of <kbd>A</kbd>.
+I prefer using the <kbd>Shift</kbd> and bottom row mods on the opposite side of the alphanumeric key I'm pressing. Since I use bottom row <kbd>Control</kbd> keys on each corner, <kbd>Caps Lock</kbd> remains located to the left of <kbd>A</kbd>.
 
-I would prefer to have a right <kbd>Command</kbd> key, but the center-aligned bottom row compensates by putting <kbd>⌘</kbd> conveniently below my left thumb.
+A right <kbd>Command</kbd> key would be ideal, but the center-aligned bottom row compensates by putting <kbd>⌘</kbd> conveniently below my left thumb.
 
 -----
 
@@ -38,7 +38,7 @@ The first _Macintosh_ keyboards — with those beautiful blockers that inspired 
 
 An <kbd>Enter</kbd> key — distinct from <kbd>Return</kbd> — was next to the right <kbd>Option</kbd> key for some reason. I remember PowerBooks had <kbd>Enter</kbd> keys in the bottom row as well.
 
-The M0110 had no <kbd>Control</kbd> keys though, and instead of an <kbd>Esc</kbd> key, the shortcut <kbd>Command</kbd>-<kbd>.</kbd> likely sufficed.
+The M0110 had no <kbd>Control</kbd> keys though, and instead of an <kbd>Esc</kbd> key, the <kbd>Command</kbd>-<kbd>.</kbd> shortcut likely sufficed.
 
 -----
 
@@ -62,13 +62,11 @@ On macOS, these keys are  <kbd>F13</kbd> and <kbd>F15</kbd>, respectively.
   * <kbd>`</kbd>  on <kbd>Esc</kbd>
   * <kbd>F1</kbd> … <kbd>F12</kbd> on <kbd>1</kbd> … <kbd>=</kdb>
   * <kbd>Print Screen</kbd> on <kbd>P</kbd>
-    * macOS sees <kbd>Print Screen</kbd> as <kbd>F13</kbd>
   * <kbd>Pause</kbd> on <kbd>]</kbd>
-    * macOS sees <kbd>Pause</kbd> as <kbd>F15</kbd>
   * Nav cluster:
     * <kbd>Insert</kbd> <kbd>Delete</kbd> <kbd>Page Up</kbd> <kbd>Page Down</kbd> <kbd>Home</kbd> <kbd>End</kbd> on <kbd>\\</kbd> <kbd>Backspace</kbd> <kbd>H</kbd> <kbd>N</kbd> <kbd>U</kbd> <kbd>O</kbd>
   * Arrow cluster:
-    * <kbd>up</kbd> <kbd>left</kbd> <kbd>down</kbd> <kbd>right</kbd> on <kbd>I</kbd> <kbd>J</kbd> <kbd>K</kbd> <kbd>L</kbd>
+    * <kbd>Up</kbd> <kbd>Left</kbd> <kbd>Down</kbd> <kbd>Right</kbd> on <kbd>I</kbd> <kbd>J</kbd> <kbd>K</kbd> <kbd>L</kbd>
   * <kbd>Space</kbd> on <kbd>B</kbd>
 * Layout also influenced by the <strong>Happy Hacking Keyboard</strong>:
   * Three (3) keyswitch locations left empty for bottom row blockers:
@@ -77,7 +75,7 @@ On macOS, these keys are  <kbd>F13</kbd> and <kbd>F15</kbd>, respectively.
   * 1u <kbd>Fn</kbd> key next to Right <kbd>Shift</kbd>
   * Numpad <kbd>Enter</kbd> on <kbd>Return</kbd>
   * Additional arrow cluster:
-    * <kbd>up</kbd> <kbd>left</kbd> <kbd>down</kbd> <kbd>right</kbd> on <kbd>=</kbd> <kbd>;</kbd> <kbd>/</kbd> <kbd>'</kdb>
+    * <kbd>Up</kbd> <kbd>Left</kbd> <kbd>Down</kbd> <kbd>Right</kbd> on <kbd>=</kbd> <kbd>;</kbd> <kbd>/</kbd> <kbd>'</kdb>
   * Media keys:
     * <kbd>Vol +</kbd> <kbd>Vol &minus;</kbd> <kbd>Mute</kbd> <kbd>Eject</kbd> on <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> <kbd>F</kbd>
 * Additional Media keys:
