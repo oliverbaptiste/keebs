@@ -1,6 +1,6 @@
 # Keebio <em>Sinc Rev. 4</em> - 75% (macro)
 
-![Keebio Sinc Rev. 3](images/keebio-sinc-rev3-75-macro.png)
+![Keebio Sinc Rev. 3](images/keebio-sinc-rev4-75-macro.png)
 
 <http://www.keyboard-layout-editor.com/#/gists/176fb4b77b2ae1a718e536f923f7a414>
 
