@@ -32,6 +32,7 @@ A <strong>94-key QWERTY split staggered keyboard layout</strong>, inspired by th
 
 ## Layout options
 
+* <kbd>Print Screen / SysReq</kbd> key in F13 position
 * 1.5u <kbd>Back Space</kbd>
 * <kbd>Esc</kbd> replaces <kbd>`</kbd> key, which is moved to top right key of number row
 * Function row <kbd>Esc</kbd> replaced with <kbd>Help</kbd> or <kbd>Print Screen</kbd>
