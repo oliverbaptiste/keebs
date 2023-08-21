@@ -1,6 +1,6 @@
 # Keebio <em>Sinc Rev. 4</em> - 75% (macro)
 
-![Keebio Sinc Rev. 3](images/keebio-sinc-rev4-75-macro.png)
+![Keebio Sinc Rev. 4](images/keebio-sinc-rev4-75-macro.png)
 
 <http://www.keyboard-layout-editor.com/#/gists/176fb4b77b2ae1a718e536f923f7a414>
 
@@ -11,9 +11,9 @@ Prooduct page on [Keeb.io](https://keeb.io/collections/sinc/products/sinc-rev-4-
 A <strong>93-key QWERTY split staggered keyboard layout</strong>, inspired by the Sun Type 5 & Type 6 keyboards.
 
 * 2 rotary encoders soldered in corners
-* 2u Backspace
-* 2.25u left SpaceFN key
-* Split right space: 1.25u + 1.5u Command key
+* 2u <kbd>Backspace</kbd>
+* 2.25u left <kbd>SpaceFn</kbd> key
+* Split right space: Convex 1.25u + 1.5u Command/Meta key
 * Stepped <kbd>Caps Lock</kdb>
 * 10 [Sun fun cluster](https://deskthority.net/wiki/Fun_cluster#Sun) keys on macro section:
   * <kbd>Stop</kbd> <kbd>Again</kbd>
@@ -27,6 +27,12 @@ A <strong>93-key QWERTY split staggered keyboard layout</strong>, inspired by th
 * <kbd>Scroll Lock</kbd> on <kbd>Fn</kbd>+ <kbd>F8</kbd>, seen as <kbd>F14</kbd> on macOS
 * <kbd>Pause</kbd> on <kbd>Fn</kbd> + <kbd>Stop</kbd>, seen as <kbd>F15</kbd> on macOS
 * <s><kbd>F16</kbd> … <kbd>F19</kbd> on <kbd>Fn</kbd> layer of left column macro keys</s>
+
+## Layout options
+
+* 1.5u <kbd>Backspace</kbd>
+* <kbd>Esc</kbd> replaces Backtick/tilde key, which is moved to top right key
+
 
 ## Keycaps
 
