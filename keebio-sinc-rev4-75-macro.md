@@ -11,9 +11,9 @@ Prooduct page on [Keeb.io](https://keeb.io/collections/sinc/products/sinc-rev-4-
 A <strong>94-key QWERTY split staggered keyboard layout</strong>, inspired by the Sun Type 5 & Type 6 keyboards.
 
 * 2 rotary encoders soldered in corners
-* 2u <kbd>Backspace</kbd>
+* 2u <kbd>Back Space</kbd>
 * 2.25u left <strong>SpaceFn</strong> key
-* Split right space: Convex 1.25u + 1.5u <kbd>Command/Meta</kbd> key
+* Split right space: convex 1.25u + 1.5u <kbd>Command/Meta</kbd> key
 * Stepped <kbd>Caps Lock</kdb>
 * 10 [Sun fun cluster](https://deskthority.net/wiki/Fun_cluster#Sun) keys on macro section:
   * <kbd>Stop</kbd> <kbd>Again</kbd>
@@ -30,8 +30,8 @@ A <strong>94-key QWERTY split staggered keyboard layout</strong>, inspired by th
 
 ## Layout options
 
-* 1.5u <kbd>Backspace</kbd>
-* <kbd>Esc</kbd> replaces <kbd>`<sup>~</sup></kbd> key, which is moved to top right key
+* 1.5u <kbd>Back Space</kbd>
+* <kbd>Esc</kbd> replaces <kbd>`~</kbd> key, which is moved to top right key of number row
 * Function row <kbd>Esc</kbd> replaced with <kbd>Help</kbd> or <kbd>Print Screen</kbd>
 
 
