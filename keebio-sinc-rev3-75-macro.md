@@ -12,8 +12,9 @@ A <strong>93-key QWERTY split staggered keyboard layout</strong>, inspired by th
 
 * 2 rotary encoders soldered in corners
 * 2u Backspace
-* Split right space (1.25u + 1.5u Command key)
-* <s>Stepped <kbd>Caps Lock</kdb></s>
+* 2.25u left SpaceFN key
+* Split right space: 1.25u + 1.5u Command key
+* Stepped <kbd>Caps Lock</kdb>
 * 10 [Sun fun cluster](https://deskthority.net/wiki/Fun_cluster#Sun) keys on macro section:
   * <kbd>Stop</kbd> <kbd>Again</kbd>
   * <kbd>Props</kbd> <kbd>Undo</kbd>
