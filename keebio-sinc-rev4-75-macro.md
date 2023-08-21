@@ -43,6 +43,5 @@ A <strong>94-key QWERTY split staggered keyboard layout</strong>, inspired by th
 
 ## References
 
-[Sun Compact layout from ](images/Sun-Compact-1-layout.png)
-
+* ![Sun Compact layout from ](images/Sun-Compact-1-layout.png)
 * _Deskthority Wiki_: [Sun Compact 1](https://deskthority.net/wiki/Sun_Compact_1).
