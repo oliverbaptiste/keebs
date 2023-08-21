@@ -1,4 +1,4 @@
-# Keebio <em>Sinc Rev. 3</em> - 75% (macro)
+# Keebio <em>Sinc Rev. 4</em> - 75% (macro)
 
 ![Keebio Sinc Rev. 3](images/keebio-sinc-rev3-75-macro.png)
 
@@ -6,10 +6,14 @@
 
 ---
 
+Prooduct page on [Keeb.io](https://keeb.io/collections/sinc/products/sinc-rev-4-split-staggered-75-keyboard)
+
 A <strong>93-key QWERTY split staggered keyboard layout</strong>, inspired by the Sun Type 5 & Type 6 keyboards.
 
 * 2 rotary encoders soldered in corners
-* Stepped <kbd>Caps Lock</kdb>
+* 2u Backspace
+* Split right space (1.25u + 1.5u Command key)
+* <s>Stepped <kbd>Caps Lock</kdb></s>
 * 10 [Sun fun cluster](https://deskthority.net/wiki/Fun_cluster#Sun) keys on macro section:
   * <kbd>Stop</kbd> <kbd>Again</kbd>
   * <kbd>Props</kbd> <kbd>Undo</kbd>
@@ -17,11 +21,11 @@ A <strong>93-key QWERTY split staggered keyboard layout</strong>, inspired by th
   * <kbd>Open</kbd> <kbd>Paste</kbd>
   * <kbd>Find</kbd> <kbd>Cut</kbd>
   * No <kbd>Help</kbd> key
-* <kbd>Fn</kbd> + <kbd>F7</kbd> to access numpad
+* <s><kbd>Fn</kbd> + <kbd>F7</kbd> to access numpad</s>
 * <kbd>Print Screen</kbd> seen as <kbd>F13</kbd> on macOS
 * <kbd>Scroll Lock</kbd> on <kbd>Fn</kbd>+ <kbd>F8</kbd>, seen as <kbd>F14</kbd> on macOS
 * <kbd>Pause</kbd> on <kbd>Fn</kbd> + <kbd>Stop</kbd>, seen as <kbd>F15</kbd> on macOS
-* <kbd>F16</kbd> … <kbd>F19</kbd> on <kbd>Fn</kbd> layer of left column macro keys
+* <s><kbd>F16</kbd> … <kbd>F19</kbd> on <kbd>Fn</kbd> layer of left column macro keys</s>
 
 ## Keycaps
 
