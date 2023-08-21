@@ -1,5 +1,7 @@
 # Keebio <em>Sinc Rev. 4</em> - 75% (macro)
 
+![Sinc Rev. 4 with MT3 Extended 2048 and MT3 Serika R2 keycaps](images/sinc-rev4-mt3-extended-serika.jpeg)
+
 ![Keebio Sinc Rev. 4](images/keebio-sinc-rev4-75-macro.png)
 
 <http://www.keyboard-layout-editor.com/#/gists/176fb4b77b2ae1a718e536f923f7a414>
