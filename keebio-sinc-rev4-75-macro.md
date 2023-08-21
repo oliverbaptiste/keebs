@@ -26,7 +26,7 @@ A <strong>94-key QWERTY split staggered keyboard layout</strong>, inspired by th
   * <kbd>Open</kbd> <kbd>Paste</kbd>
   * <kbd>Find</kbd> <kbd>Cut</kbd>
   * No <kbd>Help</kbd> key
-* <s><kbd>Fn</kbd> + <kbd>F7</kbd> to access numpad</s>
+* <kbd>Fn</kbd> + <kbd>F7</kbd> to access numpad
 * <kbd>Print Screen</kbd> seen as <kbd>F13</kbd> on macOS
 * <kbd>Scroll Lock</kbd> on <kbd>Fn</kbd>+ <kbd>F8</kbd>, seen as <kbd>F14</kbd> on macOS
 * <kbd>Pause</kbd> on <kbd>Fn</kbd> + <kbd>Stop</kbd>, seen as <kbd>F15</kbd> on macOS
