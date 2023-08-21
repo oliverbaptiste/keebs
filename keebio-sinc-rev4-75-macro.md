@@ -32,6 +32,7 @@ A <strong>94-key QWERTY split staggered keyboard layout</strong>, inspired by th
 
 * 1.5u <kbd>Backspace</kbd>
 * <kbd>Esc</kbd> replaces <kbd>`<sup>~</sup></kbd> key, which is moved to top right key
+* Function row <kbd>Esc</kbd> replaced with <kbd>Help</kbd> or <kbd>Print Screen</kbd>
 
 
 ## Keycaps
@@ -39,5 +40,7 @@ A <strong>94-key QWERTY split staggered keyboard layout</strong>, inspired by th
 [NicePBT Type 6](https://cannonkeys.com/products/nicepbt-type-6)
 
 ## References
+
+[Sun Compact layout from ](images/Sun-Compact-1-layout.png)
 
 * _Deskthority Wiki_: [Sun Compact 1](https://deskthority.net/wiki/Sun_Compact_1).
