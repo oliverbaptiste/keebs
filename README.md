@@ -24,3 +24,7 @@ Checked items indicate a keyboard I've built.
 ## ai03
 
 * [ ] [Soyuz numpad - ZeroFn layout](ai03-soyuz-numpad-zerofn.md)
+
+# Wish List
+
+- [Kilo](http://www.kilointernational.com/knobs/oej-series) [OEJNI-50-4-7 from Digikey](https://www.digikey.com/en/products/detail/kilo-international/oejni-50-4-7/5970371) (Unit price: US$10.20 as of 2023-08-21)
