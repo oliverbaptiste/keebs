@@ -18,7 +18,7 @@ A <strong>94-key QWERTY split staggered keyboard layout</strong>, inspired by th
 * 2u <kbd>Back Space</kbd>
 * 2.25u left <strong>SpaceFn</strong> key
 * Split right space: convex 1.25u + 1.5u <kbd>Command/Meta</kbd> key
-* Stepped <kbd>Caps Lock</kdb>
+* <s>Stepped <kbd>Caps Lock</kdb></s>
 * 10 [Sun fun cluster](https://deskthority.net/wiki/Fun_cluster#Sun) keys on macro section:
   * <kbd>Stop</kbd> <kbd>Again</kbd>
   * <kbd>Props</kbd> <kbd>Undo</kbd>
