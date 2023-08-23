@@ -47,6 +47,10 @@ A <strong>94-key QWERTY split staggered keyboard layout</strong>, inspired by th
 
 ## References
 
-![Sun Compact layout from ](images/Sun-Compact-1-layout.png)
+![Sun Compact 1 layout from _SPARCstation Voyager: Just the Facts_](images/Sun-Compact-1-layout.png)
+
+![Photo of Sun Compact 1 keyboard with Unix layout](images/sun-compact-1-unix-layout-keyboard.jpg)
 
 * _Deskthority Wiki_: [Sun Compact 1](https://deskthority.net/wiki/Sun_Compact_1).
+* [_SPARCstation Voyager: Just the Facts_](https://janit.iki.fi/docs/SPARCstationVoyagerJTF.pdf). Sun Microsystems, March 1994.
+* eBay listing: [Sun 320-1196 Compact 1 Keyboard, Mini-Din, US/UNIX Layout, Vintage Sun](https://www.ebay.com/itm/165992674326)
