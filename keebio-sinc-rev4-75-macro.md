@@ -1,6 +1,6 @@
 # Keebio <em>Sinc Rev. 4</em> - 75% (macro)
 
-![Sinc Rev. 4 with MT3 Extended 2048 and MT3 Serika R2 keycaps](images/sinc-rev4-mt3-extended-serika.jpeg)
+![Sinc Rev. 4 with MT3 Extended 2048 and MT3 Serika R2 keycaps](images/sinc-rev4-mt3-extended-serika.jpg)
 
 I am in progress of building a Sinc Rev. 4 hotswap board. It will eventually have two encoders soldered in the corners. Here is a picture of it with <em>MT3 Extended 2048</em> keycaps, with some pop from <em>MT3 Serika R2</em>.
 
