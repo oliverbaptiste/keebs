@@ -2,7 +2,7 @@
 
 ![Sinc Rev. 4 with MT3 Extended 2048 and MT3 Serika R2 keycaps](images/sinc-rev4-mt3-extended-serika.jpg)
 
-I am in progress of building a [Keebio Sinc Rev. 4 hotswap board](https://keeb.io/collections/sinc/products/sinc-rev-4-split-staggered-75-keyboard). It will eventually have two encoders soldered in the corners. Here is a picture of it with [MT3 Extended 2048](https://drop.com/buy/drop-biip-mt3-extended-custom-keycap-set) keycaps, with some pop from [MT3 Serika R2](https://drop.com/buy/drop-zambumon-mt3-serika-custom-keycap-set).
+I am in progress of building a [Keebio Sinc Rev. 4 hotswap split keyboard](https://keeb.io/collections/sinc/products/sinc-rev-4-split-staggered-75-keyboard). It will eventually have two encoders soldered in the corners. Here is a picture of it with [MT3 Extended 2048](https://drop.com/buy/drop-biip-mt3-extended-custom-keycap-set) keycaps, with some pop from [MT3 Serika R2](https://drop.com/buy/drop-zambumon-mt3-serika-custom-keycap-set).
 
 ![Keebio Sinc Rev. 4](images/keebio-sinc-rev4-75-macro.png)
 
