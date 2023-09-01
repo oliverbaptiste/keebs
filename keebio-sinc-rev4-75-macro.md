@@ -1,6 +1,6 @@
 # Keebio <em>Sinc Rev. 4</em> - 75% (macro)
 
-I am in progress of building a [Keebio Sinc Rev. 4 hotswap split keyboard](https://keeb.io/collections/sinc/products/sinc-rev-4-split-staggered-75-keyboard). It will eventually have two encoders soldered in the corners. Here is a picture of it with [MT3 Extended 2048](https://drop.com/buy/drop-biip-mt3-extended-custom-keycap-set) keycaps, with some pop from [MT3 Serika R2](https://drop.com/buy/drop-zambumon-mt3-serika-custom-keycap-set):
+I am in progress of building a [Keebio Sinc Rev. 4 hotswap split keyboard](https://keeb.io/collections/sinc/products/sinc-rev-4-split-staggered-75-keyboard). It is a programmable with [QMK](https://qmk.fm/)/[VIA](https://usevia.app/) firmware, It will eventually have two encoders soldered in the corners. Here is a picture of it with [MT3 Extended 2048](https://drop.com/buy/drop-biip-mt3-extended-custom-keycap-set) keycaps, with some pop from [MT3 Serika R2](https://drop.com/buy/drop-zambumon-mt3-serika-custom-keycap-set):
 
 ![Sinc Rev. 4 with MT3 Extended 2048 and MT3 Serika R2 keycaps](images/sinc-rev4-mt3-extended-serika.jpg)
 
@@ -14,20 +14,33 @@ Thinking about getting this set: [NicePBT Type 6](https://cannonkeys.com/product
 
 Prooduct page on 
 
-A <strong>94-key QWERTY split staggered keyboard layout</strong>, inspired by the Sun Type 5 & Type 6 keyboards.
+A <strong>94-key QWERTY split staggered keyboard layout</strong>, inspired by Apple and Sun keyboards.
 
-* 2 rotary encoders soldered in corners
 * 2u <kbd>Backspace</kbd>
 * 2.25u left <strong>SpaceFn</strong> key
 * Split right space: convex 1.25u + 1.5u <kbd>Command/Meta</kbd> key
+* F-row mimics macOS function keys
+  * <kbd>Scroll Lock</kbd> / <kbd>F14</kbd> and <kbd>Pause</kbd> / <kbd>F15</kbd> in <kbd>F1</kbd> & <kbd>F2</kbd> position and handle screen brightness
+  * Positions <kbd>F3</kbd> & <kbd>F4</kbd> are <kbd>F16</kbd> & <kbd>F17</kbd>
+    * Via macOS System Preferences _Keyboard_ pane, I can assign these to:
+      * Show Notification Center
+        * Mission Control is better handled with <kbd>Control</kbd> + arrow keys
+        * This key was used for Expose back in the day, anyway!
+        * When modified with <kbd>Command</kdb>, it will Show Desktop
+      * Show Launchpad
 * Access to all keycodes found on a full-size US English Apple keyboard
   * Except a real <kbd>Fn</kbd> / “Globe” key
-* Access to all Windows keys escape <kbd>Menu</kbd>
+* Access to all Windows keys except <kbd>Menu</kbd>
   * Use <kbd>Shift</kbd> + <kbd>F10</kbd> instead
-* Sun Compact 1 style numeric keypad on layer
+* Left-side: Navigation cluster on layer
+* Right-side: Full Apple numeric keypad on layer
+  * <kbd>N</kbd> is <kbd>Clear</kbd> / <kbd>Num Lock</kbd> on layer
+  * <kbd>=</kbd> is Numpad <kbd>=</kdb> on layer
 * <kbd>Home</kbd> key in <kbd>F13</kbd> position
 * <kbd>Home</kbd> is <kbd>Print Screen</kbd> / <kbd>F13</kbd> on layer
 * <kbd>Escape</kbd> is <kbd>Eject</kbd> on layer
+* [ ] 2 rotary encoders soldered in corners
+
 
 ## Layout options
 
