@@ -34,8 +34,9 @@ A <strong>94-key QWERTY split staggered keyboard layout</strong>, inspired by Ap
   * Use <kbd>Shift</kbd> + <kbd>F10</kbd> instead
 * Left-side: Navigation cluster on layer
 * Right-side: Full Apple numeric keypad on layer
-  * <kbd>N</kbd> is <kbd>Clear</kbd> / <kbd>Num Lock</kbd> on layer
-  * <kbd>=</kbd> is Numpad <kbd>=</kbd> on layer
+  * <kbd>Return</kbd> is <kbd>Enter</kbd>
+  * <kbd>N</kbd> is <kbd>Clear</kbd> / <kbd>Num Lock</kbd>
+  * <kbd>=</kbd> is Numpad <kbd>=</kbd>
 * <kbd>Home</kbd> key in <kbd>F13</kbd> position
 * <kbd>Home</kbd> is <kbd>Print Screen</kbd> / <kbd>F13</kbd> on layer
 * <kbd>Escape</kbd> is <kbd>Eject</kbd> on layer
