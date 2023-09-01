@@ -20,7 +20,8 @@ A <strong>94-key QWERTY split staggered keyboard layout</strong>, inspired by th
 * 2u <kbd>Backspace</kbd>
 * 2.25u left <strong>SpaceFn</strong> key
 * Split right space: convex 1.25u + 1.5u <kbd>Command/Meta</kbd> key
-* Access to all keycodes found on a full-size Apple keyboard escape native <kbd>Fn</kbd>
+* Access to all keycodes found on a full-size US English Apple keyboard
+  * Except a real <kbd>Fn</kbd> / “Globe” key
 * Access to all Windows keys escape <kbd>Menu</kbd>
   * Use <kbd>Shift</kbd> + <kbd>F10</kbd> instead
 * Sun Compact 1 style numeric keypad on layer
@@ -32,13 +33,6 @@ A <strong>94-key QWERTY split staggered keyboard layout</strong>, inspired by th
 
 * 1.5u <kbd>Backspace</kbd>
 * F-row <kbd>Escacpe</kbd> key replaced with <kbd>Help</kbd>, <kbd>Print Screen</kbd>, <kbd>⏻</kbd>, or blank keycap
-* [ ] 10 [Sun fun cluster](https://deskthority.net/wiki/Fun_cluster#Sun) layer on macro section:
-  * <kbd>Stop</kbd> <kbd>Again</kbd>
-  * <kbd>Props</kbd> <kbd>Undo</kbd>
-  * <kbd>Front</kbd> <kbd>Copy</kbd>
-  * <kbd>Open</kbd> <kbd>Paste</kbd>
-  * <kbd>Find</kbd> <kbd>Cut</kbd>
-  * <kbd>Help</kbd> key
 * <kbd>Print Screen / SysReq</kbd> key in <kbd>F13</kbd> position
 * <kbd>Scroll Lock</kbd> on <kbd>Fn</kbd>+ <kbd>F8</kbd>, seen as <kbd>F14</kbd> on macOS
 * <kbd>Pause</kbd> on <kbd>Fn</kbd> + <kbd>Stop</kbd>, seen as <kbd>F15</kbd> on macOS
@@ -47,7 +41,14 @@ A <strong>94-key QWERTY split staggered keyboard layout</strong>, inspired by th
 * Key to right of <kbd>Up</kbd> is <kbd>End</kbd> on tap, and <kbd>Fn</kbd> on hold
 * <kbd>`</kbd> key is <kbd>Escape</kbd> on layer
 * F-row <kbd>Escacpe</kbd> key replaced with <kbd>Help</kbd>, <kbd>Print Screen</kbd>, <kbd>⏻</kbd>, or blank keycap
-* [ ] Hack firmware to spoof as an Apple-manufactured board and access true <kbd>Fn</kbd>
+* [ ] 10 [Sun fun cluster](https://deskthority.net/wiki/Fun_cluster#Sun) layer on macro section:
+  * <kbd>Stop</kbd> <kbd>Again</kbd>
+  * <kbd>Props</kbd> <kbd>Undo</kbd>
+  * <kbd>Front</kbd> <kbd>Copy</kbd>
+  * <kbd>Open</kbd> <kbd>Paste</kbd>
+  * <kbd>Find</kbd> <kbd>Cut</kbd>
+  * <kbd>Help</kbd> key
+* [ ] Hack firmware to spoof an Apple-manufactured board to access true <kbd>Fn</kbd> “Globe” key
 
 ## References
 
