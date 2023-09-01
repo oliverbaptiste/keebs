@@ -17,7 +17,7 @@ Prooduct page on
 A <strong>94-key QWERTY split staggered keyboard layout</strong>, inspired by the Sun Type 5 & Type 6 keyboards.
 
 * 2 rotary encoders soldered in corners
-* 2u <kbd>Back Space</kbd>
+* 2u <kbd>Backspace</kbd>
 * 2.25u left <strong>SpaceFn</strong> key
 * Split right space: convex 1.25u + 1.5u <kbd>Command/Meta</kbd> key
 * Access to all keycodes found on a full-size Apple keyboard escape native <kbd>Fn</kbd>
