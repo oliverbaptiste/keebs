@@ -16,7 +16,7 @@ A <strong>94-key QWERTY split staggered keyboard layout</strong>, inspired by Ap
 
 * 2u <kbd>Backspace</kbd>
 * 2.25u left <strong>SpaceFn</strong> key
-* Split right space: convex 1.25u + 1.5u <kbd>Command/Meta</kbd> key
+* Split right space: convex 1.25u + 1.5u <kbd>Command</kbd> / <kbd>Win</kbd> / <kbd>◆</kbd> key
 * Minimum mod width: 1.25u
 * 0.5u blocker to left of arrow cluster
 * F-row mimics macOS function keys
