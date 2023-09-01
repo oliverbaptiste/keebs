@@ -14,7 +14,7 @@ Here is a picture of it with [Drop + biip MT3 Extended 2048](https://drop.com/bu
 
 -----
 
-Thinking about getting this [NicePBT Type 6](https://cannonkeys.com/products/nicepbt-type-6) from CannonKeys:
+Thinking about getting this [NicePBT Type 6](https://cannonkeys.com/products/nicepbt-type-6) set from CannonKeys:
 
 ![Keebio Sinc Rev. 4](images/keebio-sinc-rev4-75-macro.png)
 
