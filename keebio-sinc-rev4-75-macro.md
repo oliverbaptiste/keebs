@@ -1,4 +1,4 @@
-# Keebio <em>Sinc Rev. 4</em> - 75% (macro)
+# Keebio <em>Sinc Rev. 4</em> - 75% split keyboard with XT-style function cluster
 
 I am in progress of building a [Keebio Sinc Rev. 4 hotswap split keyboard](https://keeb.io/collections/sinc/products/sinc-rev-4-split-staggered-75-keyboard). It is a programmable with [QMK](https://qmk.fm/)/[VIA](https://usevia.app/) firmware, It will eventually have two encoders soldered in the corners. Here is a picture of it with [MT3 Extended 2048](https://drop.com/buy/drop-biip-mt3-extended-custom-keycap-set) keycaps, with some pop from [MT3 Serika R2](https://drop.com/buy/drop-zambumon-mt3-serika-custom-keycap-set):
 
@@ -12,7 +12,7 @@ Thinking about getting this set: [NicePBT Type 6](https://cannonkeys.com/product
 
 ---
 
-A <strong>94-key QWERTY split staggered keyboard layout</strong>, inspired by Apple and Sun keyboards.
+A <strong>94-key QWERTY split staggered keyboard layout</strong>, inspired by Apple, IBM, and Sun keyboards.
 
 * 2u <kbd>Backspace</kbd>
 * 2.25u left <strong>SpaceFn</strong> key
