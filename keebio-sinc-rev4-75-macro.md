@@ -1,4 +1,6 @@
-# Keebio <em>Sinc Rev. 4</em> - 75% split keyboard with XT-style function cluster
+# Keebio <em>Sinc Rev. 4</em> - 75% staggered split with XT-style function cluster
+
+My first mechanical keyboard daily driver I had was the Kinesis Freestyle RGB. While a very flexible, comfortable, and fun board, I never liked the bottom row layout. I also prefer to use silent switches, and my Freestyles have soldered-in Cherry MX Browns.
 
 I am in progress of building a [Keebio Sinc Rev. 4 hotswap split keyboard](https://keeb.io/collections/sinc/products/sinc-rev-4-split-staggered-75-keyboard). It is a programmable with [QMK](https://qmk.fm/)/[VIA](https://usevia.app/) firmware, It will eventually have two encoders soldered in the corners. Here is a picture of it with [Drop + biip MT3 Extended 2048](https://drop.com/buy/drop-biip-mt3-extended-custom-keycap-set) keycaps, with some color accents from [Drop + Zambumon MT3 Serika R2](https://drop.com/buy/drop-zambumon-mt3-serika-custom-keycap-set):
 
