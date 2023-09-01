@@ -21,31 +21,34 @@ A <strong>94-key QWERTY split staggered keyboard layout</strong>, inspired by th
 * 2.25u left <strong>SpaceFn</strong> key
 * Split right space: convex 1.25u + 1.5u <kbd>Command/Meta</kbd> key
 * <s>Stepped <kbd>Caps Lock</kdb></s>
-* Full access to all 109 keys found on a full-size Apple keyboard
+* Access to all keycodes found on a full-size Apple keyboard escape native <kbd>Fn</kbd>
 * Access to all Windows keys escape <kbd>Menu</kbd>
   * Use <kbd>Shift</kbd> + <kbd>F10</kbd> instead
-* 10 [Sun fun cluster](https://deskthority.net/wiki/Fun_cluster#Sun) keys on macro section:
+* Sun Compact 1 style numeric keypad on layer
+* <kbd>Home</kbd> key in <kbd>F13</kbd> position
+* <kbd>Home</kbd> is <kbd>Print Screen</kbd> / <kbd>F13</kbd> on layer
+* <kbd>Escape</kbd> is <kbd>Eject</kbd> on layer
+
+## Layout options
+
+* <s>1.5u <kbd>Backspace</kbd></s>
+* <s>F-row <kbd>Escacpe</kbd> key replaced with <kbd>Help</kbd>, <kbd>Print Screen</kbd>, <kbd>⏻</kbd>, or blank keycap</s>
+* [ ] 10 [Sun fun cluster](https://deskthority.net/wiki/Fun_cluster#Sun) layer on macro section:
   * <kbd>Stop</kbd> <kbd>Again</kbd>
   * <kbd>Props</kbd> <kbd>Undo</kbd>
   * <kbd>Front</kbd> <kbd>Copy</kbd>
   * <kbd>Open</kbd> <kbd>Paste</kbd>
   * <kbd>Find</kbd> <kbd>Cut</kbd>
-  * No <kbd>Help</kbd> key
-* <kbd>Fn</kbd> + <kbd>F7</kbd> to access numpad
-* <kbd>Print Screen</kbd> seen as <kbd>F13</kbd> on macOS
+  * <kbd>Help</kbd> key
+* <kbd>Print Screen / SysReq</kbd> key in <kbd>F13</kbd> position
 * <kbd>Scroll Lock</kbd> on <kbd>Fn</kbd>+ <kbd>F8</kbd>, seen as <kbd>F14</kbd> on macOS
 * <kbd>Pause</kbd> on <kbd>Fn</kbd> + <kbd>Stop</kbd>, seen as <kbd>F15</kbd> on macOS
 * <kbd>F16</kbd> … <kbd>F19</kbd> on <kbd>Fn</kbd> layer of left column macro keys
-* <kbd>Eject</kbd> on <kbd>Escape</kbd>
-
-## Layout options
-
-* <kbd>Print Screen / SysReq</kbd> key in F13 position
-* 1.5u <kbd>Back Space</kbd>
-* <kbd>Esc</kbd> replaces <kbd>`</kbd> key, which is moved to top right key of number row
-* Function row <kbd>Esc</kbd> replaced with <kbd>Help</kbd>, <kbd>Print Screen</kbd>, <kbd>⏻</kbd>, or blank keycap
-* <kbd>Delete</kbd> key replaces <kbd>Home</kbd>
-* Hack firmware to spoof as an Apple-manufactured board and access true <kbd>Fn</kbd>
+* <kbd>Delete</kbd> key to right of <kbd>Backspace</kbd>
+* Key to right of <kbd>Up</kbd> is <kbd>End</kbd> on tap, and <kbd>Fn</kbd> on hold
+* <kbd>`</kbd> key is <kbd>Escape</kbd> on layer
+* F-row <kbd>Escacpe</kbd> key replaced with <kbd>Help</kbd>, <kbd>Print Screen</kbd>, <kbd>⏻</kbd>, or blank keycap
+* [ ] Hack firmware to spoof as an Apple-manufactured board and access true <kbd>Fn</kbd>
 
 ## References
 
