@@ -2,7 +2,9 @@
 
 My first mechanical daily driver was the [Kinesis Freestyle RGB](https://gaming.kinesis-ergo.com/product/freestyle-edge/). While a very flexible, comfortable, and fun board, I never liked the bottom row layout with its non-standard 3.5u spacebars. Like many compact boards, it also lacked a third right modifier. 
 
-I also prefer to use silent switches, while the Freestyles has soldered-in Cherry MX Browns. Keebio to the rescue! I also own a couple version of the 65% ancestor of the Sinc: the [Quefrency](https://keeb.io/collections/quefrency-split-staggered-65-keyboard/products/quefrency-rev-5-pcbs-hotswap-65-65xt-split-staggered-keyboard).
+I also prefer to silent switches to the Freestyle&rsquo;s soldered-in Cherry MX Browns.
+
+[Keebio](https://keeb.io) to the rescue! I also own a couple version of the 65% ancestor of the Sinc: the [Quefrency](https://keeb.io/collections/quefrency-split-staggered-65-keyboard/products/quefrency-rev-5-pcbs-hotswap-65-65xt-split-staggered-keyboard).
 
 I am  building a [Keebio Sinc Rev. 4 hotswap split keyboard](https://keeb.io/collections/sinc/products/sinc-rev-4-split-staggered-75-keyboard). It is a programmable with [QMK](https://qmk.fm/)/[VIA](https://usevia.app/) firmware, Eventually it will have two encoders soldered in the corners.
 
