@@ -2,6 +2,8 @@
 
 My first mechanical daily driver was the [Kinesis Freestyle RGB](https://gaming.kinesis-ergo.com/product/freestyle-edge/). While a very flexible, comfortable, and fun board, I never liked the bottom row layout with its non-standard 3.5u spacebars. Like many compact boards, it also lacked a third right modifier. 
 
+![Kinesis Freestyle RGB with Numeric Keypad, SA Nuclear Data keycaps](images/kinesis-freestyle-rgb-sa-nuclear-data.jpeg)
+
 I also prefer to silent switches to the Freestyle&rsquo;s soldered-in Cherry MX Browns.
 
 [Keebio](https://keeb.io) to the rescue! I also own a couple version of the 65% ancestor of the Sinc: the [Quefrency](https://keeb.io/collections/quefrency-split-staggered-65-keyboard/products/quefrency-rev-5-pcbs-hotswap-65-65xt-split-staggered-keyboard).
