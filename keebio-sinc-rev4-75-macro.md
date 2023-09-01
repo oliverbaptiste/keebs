@@ -12,8 +12,6 @@ Thinking about getting this set: [NicePBT Type 6](https://cannonkeys.com/product
 
 ---
 
-Prooduct page on 
-
 A <strong>94-key QWERTY split staggered keyboard layout</strong>, inspired by Apple and Sun keyboards.
 
 * 2u <kbd>Backspace</kbd>
