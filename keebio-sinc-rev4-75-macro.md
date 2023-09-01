@@ -38,8 +38,8 @@ A <strong>94-key QWERTY split staggered keyboard layout</strong>, inspired by Ap
   * <kbd>N</kbd> is <kbd>Clear</kbd> / <kbd>Num Lock</kbd>
   * <kbd>=</kbd> is Numpad <kbd>=</kbd>
 * <kbd>Home</kbd> key in <kbd>F13</kbd> position
-* <kbd>Home</kbd> is <kbd>Print Screen</kbd> / <kbd>F13</kbd> on layer
-* <kbd>Escape</kbd> is <kbd>Eject</kbd> on layer
+  * <kbd>Print Screen</kbd> / <kbd>F13</kbd> on layer
+* <kbd>Escape</kbd> is <kbd>Eject</kbd> key on layer
 * [ ] 2 rotary encoders soldered in corners
 
 
