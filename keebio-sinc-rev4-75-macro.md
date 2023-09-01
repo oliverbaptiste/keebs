@@ -1,18 +1,26 @@
 # Keebio <em>Sinc Rev. 4</em> - 75% staggered split with XT-style function cluster
 
-My first mechanical keyboard daily driver I had was the Kinesis Freestyle RGB. While a very flexible, comfortable, and fun board, I never liked the bottom row layout. I also prefer to use silent switches, and my Freestyles have soldered-in Cherry MX Browns.
+My first mechanical daily driver was the [Kinesis Freestyle RGB](https://gaming.kinesis-ergo.com/product/freestyle-edge/). While a very flexible, comfortable, and fun board, I never liked the bottom row layout with its non-standard 3.5u spacebars. Like many compact boards, it also lacked a third right modifier. 
 
-I am in progress of building a [Keebio Sinc Rev. 4 hotswap split keyboard](https://keeb.io/collections/sinc/products/sinc-rev-4-split-staggered-75-keyboard). It is a programmable with [QMK](https://qmk.fm/)/[VIA](https://usevia.app/) firmware, It will eventually have two encoders soldered in the corners. Here is a picture of it with [Drop + biip MT3 Extended 2048](https://drop.com/buy/drop-biip-mt3-extended-custom-keycap-set) keycaps, with some color accents from [Drop + Zambumon MT3 Serika R2](https://drop.com/buy/drop-zambumon-mt3-serika-custom-keycap-set):
+I also prefer to use silent switches, while the Freestyles has soldered-in Cherry MX Browns. Keebio to the rescue! I also own a couple version of the 65% ancestor of the Sinc: the [Quefrency](https://keeb.io/collections/quefrency-split-staggered-65-keyboard/products/quefrency-rev-5-pcbs-hotswap-65-65xt-split-staggered-keyboard).
+
+I am  building a [Keebio Sinc Rev. 4 hotswap split keyboard](https://keeb.io/collections/sinc/products/sinc-rev-4-split-staggered-75-keyboard). It is a programmable with [QMK](https://qmk.fm/)/[VIA](https://usevia.app/) firmware, Eventually it will have two encoders soldered in the corners.
+
+-----
+
+Here is a picture of it with [Drop + biip MT3 Extended 2048](https://drop.com/buy/drop-biip-mt3-extended-custom-keycap-set) keycaps, with some color accents from [Drop + Zambumon MT3 Serika R2](https://drop.com/buy/drop-zambumon-mt3-serika-custom-keycap-set):
 
 ![Sinc Rev. 4 with MT3 Extended 2048 and MT3 Serika R2 keycaps](images/sinc-rev4-mt3-extended-serika.jpg)
 
-Thinking about getting this set: [NicePBT Type 6](https://cannonkeys.com/products/nicepbt-type-6)
+-----
+
+Thinking about getting this [NicePBT Type 6](https://cannonkeys.com/products/nicepbt-type-6) from CannonKeys:
 
 ![Keebio Sinc Rev. 4](images/keebio-sinc-rev4-75-macro.png)
 
 <http://www.keyboard-layout-editor.com/#/gists/176fb4b77b2ae1a718e536f923f7a414>
 
----
+-----
 
 A <strong>94-key QWERTY split staggered keyboard layout</strong>, inspired by Apple, IBM, and Sun keyboards.
 
@@ -65,6 +73,8 @@ A <strong>94-key QWERTY split staggered keyboard layout</strong>, inspired by Ap
   * <kbd>Find</kbd> <kbd>Cut</kbd>
   * <kbd>Help</kbd> key
 * [ ] Hack firmware to spoof an Apple-manufactured board to access true <kbd>Fn</kbd> “Globe” key
+
+------
 
 ## References
 
