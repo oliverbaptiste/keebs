@@ -23,11 +23,11 @@ A <strong>94-key QWERTY split staggered keyboard layout</strong>, inspired by Ap
   * <kbd>Scroll Lock</kbd> / <kbd>F14</kbd> and <kbd>Pause</kbd> / <kbd>F15</kbd> in <kbd>F1</kbd> & <kbd>F2</kbd> position and handle screen brightness
   * Positions <kbd>F3</kbd> & <kbd>F4</kbd> are <kbd>F16</kbd> & <kbd>F17</kbd>
     * Via macOS System Preferences _Keyboard_ pane, I can assign these to:
-      * Show Notification Center
+      * _Show Notification Center_
         * Mission Control is better handled with <kbd>Control</kbd> + arrow keys
         * This key was used for Expose back in the day, anyway!
-        * When modified with <kbd>Command</kdb>, it will Show Desktop
-      * Show Launchpad
+        * When modified with <kbd>Command</kbd>, it will _Show Desktop_
+      * _Show Launchpad_
 * Access to all keycodes found on a full-size US English Apple keyboard
   * Except a real <kbd>Fn</kbd> / “Globe” key
 * Access to all Windows keys except <kbd>Menu</kbd>
