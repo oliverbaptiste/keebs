@@ -20,7 +20,6 @@ A <strong>94-key QWERTY split staggered keyboard layout</strong>, inspired by th
 * 2u <kbd>Back Space</kbd>
 * 2.25u left <strong>SpaceFn</strong> key
 * Split right space: convex 1.25u + 1.5u <kbd>Command/Meta</kbd> key
-* <s>Stepped <kbd>Caps Lock</kdb></s>
 * Access to all keycodes found on a full-size Apple keyboard escape native <kbd>Fn</kbd>
 * Access to all Windows keys escape <kbd>Menu</kbd>
   * Use <kbd>Shift</kbd> + <kbd>F10</kbd> instead
@@ -31,8 +30,8 @@ A <strong>94-key QWERTY split staggered keyboard layout</strong>, inspired by th
 
 ## Layout options
 
-* <s>1.5u <kbd>Backspace</kbd></s>
-* <s>F-row <kbd>Escacpe</kbd> key replaced with <kbd>Help</kbd>, <kbd>Print Screen</kbd>, <kbd>⏻</kbd>, or blank keycap</s>
+* 1.5u <kbd>Backspace</kbd>
+* F-row <kbd>Escacpe</kbd> key replaced with <kbd>Help</kbd>, <kbd>Print Screen</kbd>, <kbd>⏻</kbd>, or blank keycap
 * [ ] 10 [Sun fun cluster](https://deskthority.net/wiki/Fun_cluster#Sun) layer on macro section:
   * <kbd>Stop</kbd> <kbd>Again</kbd>
   * <kbd>Props</kbd> <kbd>Undo</kbd>
