@@ -3,8 +3,8 @@
   "vendorProductId": 3406840423,
   "macros": [
     "",
-    "{KC_LSFT,KC_LGUI,KC_LBRC}",
-    "{KC_LSFT,KC_LGUI,KC_RBRC}",
+    "{KC_LSFT,KC_LCTL,KC_TAB}",
+    "{KC_LCTL,KC_TAB}",
     "",
     "",
     "",
@@ -128,7 +128,7 @@
       "KC_VOLD",
       "KC_VOLU",
       "KC_HOME",
-      "KC_INS"
+      "KC_MUTE"
     ],
     [
       "KC_F18",
@@ -192,8 +192,8 @@
       "KC_TRNS",
       "KC_PEQL",
       "KC_TRNS",
-      "KC_TRNS",
-      "KC_TRNS",
+      "KC_DEL",
+      "KC_EJCT",
       "KC_TRNS",
       "KC_P4",
       "KC_P5",
@@ -238,7 +238,7 @@
       "KC_F11",
       "KC_F12",
       "KC_PSCR",
-      "KC_SLEP"
+      "KC_TRNS"
     ],
     [
       "KC_TRNS",
@@ -463,14 +463,14 @@
   ],
   "encoders": [
     [
-      ["KC_VOLU", "KC_VOLD"],
-      ["RGB_MOD", "RGB_RMOD"],
+      ["KC_VOLD", "KC_VOLU"],
+      ["KC_TRNS", "KC_TRNS"],
       ["KC_TRNS", "KC_TRNS"],
       ["KC_TRNS", "KC_TRNS"]
     ],
     [
-      ["KC_PGUP", "KC_PGDN"],
-      ["KC_MNXT", "KC_MPRV"],
+      ["KC_VOLD", "KC_VOLU"],
+      ["KC_TRNS", "KC_TRNS"],
       ["KC_TRNS", "KC_TRNS"],
       ["KC_TRNS", "KC_TRNS"]
     ]
