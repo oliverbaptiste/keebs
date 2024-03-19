@@ -1,34 +1,24 @@
-# Keebio <em>Sinc Rev. 4</em> - 75% staggered split with XT-style function cluster
+# Keebio _Sinc Rev. 4_ - 75% staggered split with XT-style function cluster
 
-I am building a [Keebio Sinc Rev. 4 hotswap split keyboard](https://keeb.io/collections/sinc/products/sinc-rev-4-split-staggered-75-keyboard). It is a [QMK](https://qmk.fm/) keyboard that is programmable with [VIA](https://usevia.app/). Eventually it will have two rotary encoders soldered in the corners.
+I built a [Keebio Sinc Rev. 4 hotswap split keyboard](https://keeb.io/collections/sinc/products/sinc-rev-4-split-staggered-75-keyboard). It is a [QMK](https://qmk.fm/) keyboard that is programmable with [VIA](https://usevia.app/).
 
 Here is a picture of it with [Drop + biip MT3 Extended 2048](https://drop.com/buy/drop-biip-mt3-extended-custom-keycap-set) keycaps, with some  [Drop + Zambumon MT3 Serika R2](https://drop.com/buy/drop-zambumon-mt3-serika-custom-keycap-set) accents:
 
 ![Sinc Rev. 4 with MT3 Extended 2048 and MT3 Serika R2 keycaps](images/sinc-rev4-mt3-extended-serika.jpg)
 
-Thinking about getting this [NicePBT Type 6](https://cannonkeys.com/products/nicepbt-type-6) set from CannonKeys:
+Almost 100% accurate rendering of the keymap I am currently using:
+<http://www.keyboard-layout-editor.com/#/gists/176fb4b77b2ae1a718e536f923f7a414>
 
 ![Keebio Sinc Rev. 4](images/keebio-sinc-rev4-75-macro.png)
 
-This is the keymap I am currently using:
-<http://www.keyboard-layout-editor.com/#/gists/176fb4b77b2ae1a718e536f923f7a414>
+Designed with [NicePBT Type 6](https://cannonkeys.com/products/nicepbt-type-6) set from CannonKeys:
 
 -----
 
-My first mechanical daily driver was the [Kinesis Freestyle RGB](https://gaming.kinesis-ergo.com/product/freestyle-edge/). While a very flexible, comfortable, and fun board, I never liked the bottom row layout with its non-standard 3.5u spacebars. Like many compact boards, it also lacked a third right modifier. 
-
-![Kinesis Freestyle RGB with Numeric Keypad, SA Nuclear Data keycaps](images/kinesis-freestyle-rgb-sa-nuclear-data.jpg)
-
-I also prefer to silent switches to the Freestyle&rsquo;s soldered-in Cherry MX Browns.
-
-[Keebio](https://keeb.io) to the rescue! I also own a couple versions of the 65% ancestor of the Sinc: the [Quefrency](https://keeb.io/collections/quefrency-split-staggered-65-keyboard/products/quefrency-rev-5-pcbs-hotswap-65-65xt-split-staggered-keyboard).
-
------
-
-<strong>94-key QWERTY split staggered keyboard layout</strong>, inspired by Apple, IBM, and Sun keyboards.
+*96-key QWERTY split staggered keyboard layout*, inspired by Apple, IBM, and Sun keyboards.
 
 * 2u <kbd>Backspace</kbd>
-* 2.25u left <strong>SpaceFn</strong> key
+* 2.25u left *SpaceFn* key
 * Split right space: convex 1.25u + 1.5u <kbd>Command</kbd> / <kbd>Win</kbd> / <kbd>◆</kbd> key
 * Minimum mod width: 1.25u
 * 0.5u blocker to left of arrow cluster
@@ -50,11 +40,10 @@ I also prefer to silent switches to the Freestyle&rsquo;s soldered-in Cherry MX 
   * <kbd>Return</kbd> is <kbd>Enter</kbd>
   * <kbd>N</kbd> is <kbd>Clear</kbd> / <kbd>Num Lock</kbd>
   * <kbd>=</kbd> is Numpad <kbd>=</kbd>
-* <kbd>Home</kbd> key in <kbd>F13</kbd> position
-  * <kbd>Print Screen</kbd> / <kbd>F13</kbd> on layer
+* <kbd>F13</kbd> / <kbd>Print Screen</kbd>
+* <kbd>Home</kbd> key in <kbd>F14</kbd> position
 * <kbd>Escape</kbd> is <kbd>Eject</kbd> key on layer
-* [ ] 2 rotary encoders soldered in corners
-
+* ~~2 rotary encoders soldered in corners~~
 
 ## Layout options
 
@@ -77,7 +66,7 @@ I also prefer to silent switches to the Freestyle&rsquo;s soldered-in Cherry MX 
   * <kbd>Help</kbd> key
 * [ ] Hack firmware to spoof an Apple-manufactured board to access true <kbd>Fn</kbd> “Globe” key
 
-------
+-----
 
 ## References
 

@@ -8,6 +8,10 @@ Keymaps designed for my custom mechanical keebs via [keyboard-layout-editor.com]
 
 Checked items indicate a keyboard I've built.
 
+## Keychron 
+
+* [x] V8 (65% Arisu layout) ☜ _daily driver_
+
 ## Keebio
 
 ### Macropad
@@ -19,7 +23,7 @@ Checked items indicate a keyboard I've built.
 * [x] [Quefrency Rev. 4 - 60%](keebio-quefrency-rev4-60.md)
 * [x] [Quefrency Rev. 2 - 65%](keebio-quefrency-rev2-65.md)
 * [ ] [Quefrency Rev. 2 - 65% (macro)](keebio-quefrency-rev2-65-macro.md)
-* [ ] [Sinc Rev. 4 - 75% (macro)](keebio-sinc-rev4-75-macro.md) - _in progress_
+* [x] [Sinc Rev. 4 - 75% (macro)](keebio-sinc-rev4-75-macro.md)
 
 ## ai03
 
