@@ -1,3 +1,4 @@
+
 # Keebio _Sinc Rev. 4_ - 75% staggered split with XT-style function cluster
 
 I built a [Keebio Sinc Rev. 4 hotswap split keyboard](https://keeb.io/collections/sinc/products/sinc-rev-4-split-staggered-75-keyboard). It is a [QMK](https://qmk.fm/) keyboard that is programmable with [VIA](https://usevia.app/).
@@ -11,7 +12,7 @@ Almost 100% accurate rendering of the keymap I am currently using:
 
 ![Keebio Sinc Rev. 4](images/keebio-sinc-rev4-75-macro.png)
 
-Designed with [NicePBT Type 6](https://cannonkeys.com/products/nicepbt-type-6) set from CannonKeys:
+Designed with [NicePBT Type 6](https://cannonkeys.com/products/nicepbt-type-6) set from CannonKeys
 
 -----
 
