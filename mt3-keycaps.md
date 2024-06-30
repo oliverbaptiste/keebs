@@ -4,7 +4,7 @@ date: 2024-06-29
 ---
 # MT3 profile keycaps
 
-**MT3** is a keycap profile designed by [Matt30](https://matt3o.com) that is only available from [Drop](https://drop.com/home).
+**MT3** is a keycap profile designed by [Matt3o](https://matt3o.com) that is only available from [Drop](https://drop.com/home).
 
 Double-shot ABS MT3 keycap sets only have R4 angled bottom rows, and don't have convex spacebars smaller than 2u.
 
