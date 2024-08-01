@@ -1,4 +1,4 @@
-# Keebio _Quefrency Rev. 2_ - 65% (macro)
+# Keebio _Quefrency Rev. 2_ - split 65XT
 
 ![Keebio Quefrency Rev. 2 - 65% layout with macro section](images/keebio-quefrency-rev2-65-macro.png)
 

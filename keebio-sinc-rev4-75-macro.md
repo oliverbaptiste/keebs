@@ -1,5 +1,5 @@
 
-# Keebio _Sinc Rev. 4_ - 75% staggered split with XT-style function cluster
+# Keebio _Sinc Rev. 4_ - split 75%
 
 I built a [Keebio Sinc Rev. 4 hotswap split keyboard](https://keeb.io/collections/sinc/products/sinc-rev-4-split-staggered-75-keyboard). It is a [QMK](https://qmk.fm/) keyboard that is programmable with [VIA](https://usevia.app/).
 
@@ -7,19 +7,19 @@ Here is a picture of it with [Drop + biip MT3 Extended 2048](https://drop.com/bu
 
 ![Sinc Rev. 4 with MT3 Extended 2048 and MT3 Serika R2 keycaps](images/sinc-rev4-mt3-extended-serika.jpg)
 
-Almost 100% accurate rendering of the keymap I am currently using:
+NicePBT Type 6 layout:
 <http://www.keyboard-layout-editor.com/#/gists/176fb4b77b2ae1a718e536f923f7a414>
 
 ![Keebio Sinc Rev. 4](images/keebio-sinc-rev4-75-macro.png)
 
-Designed with [NicePBT Type 6](https://cannonkeys.com/products/nicepbt-type-6) set from CannonKeys
+Colorway and legends from [NicePBT Type 6](https://cannonkeys.com/products/nicepbt-type-6) set from CannonKeys
 
 -----
 
-*96-key QWERTY split staggered keyboard layout*, inspired by Apple, IBM, and Sun keyboards.
+_96-key QWERTY split staggered keyboard layout_, inspired by Apple, IBM, and Sun keyboards.
 
 * 2u <kbd>Backspace</kbd>
-* 2.25u left *SpaceFn* key
+* 2.25u left _SpaceFn_ key
 * Split right space: convex 1.25u + 1.5u <kbd>Command</kbd> / <kbd>Win</kbd> / <kbd>◆</kbd> key
 * Minimum mod width: 1.25u
 * 0.5u blocker to left of arrow cluster
