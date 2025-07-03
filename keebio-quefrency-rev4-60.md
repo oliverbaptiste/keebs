@@ -6,7 +6,7 @@
 
 KLE layout: <http://www.keyboard-layout-editor.com/#/gists/69eaf79c79cee5e88ad23d3aa2c4c905>
 
-A <strong>61-key QWERTY split staggered keyboard layout</strong> for macOS, inspired by [HHKB](https://hhkb.io/layout/) and [SpaceFn](https://geekhack.org/index.php?topic=51069.0) layouts.
+A <strong><s>61</s> 65-key QWERTY split staggered keyboard layout</strong> for macOS, inspired by [HHKB](https://hhkb.io/layout/) and [SpaceFn](https://geekhack.org/index.php?topic=51069.0) layouts.
 
 Tenkeyless access to <strong>85 keys</strong> of the US ANSI 104-key layout — plus <strong>media keys</strong> & <strong>underglow lighting control</strong> — using <strong>one (1) layer</strong>.
 
@@ -27,6 +27,27 @@ Most macOS keyboards with only two bottom row right modifiers put <kbd>Command</
 I prefer using the <kbd>Shift</kbd> and bottom row mods on the opposite side of the alphanumeric key I'm pressing. Since I use bottom row <kbd>Control</kbd> keys on each corner, <kbd>Caps Lock</kbd> remains located to the left of <kbd>A</kbd>.
 
 A right <kbd>Command</kbd> key would be ideal, but the center-aligned bottom row compensates by putting <kbd>⌘</kbd> conveniently below my left thumb.
+
+### 2025 Update
+
+My Quefrency 60% eventually succumbed to the bottom of a project drawer in lieu of other keyboards: particularly my Keychron V8.
+
+However, I discovered something while playing the <cite>Minecraft</cite> demo with my son on my Mac: the WASD layout on the V8 is awkward. I revived my Drop Alt v1 with a new case, SA Nuclear Data capa, and silent switches as a gaming board. The switches look awesome with the caps but they feel like mush.
+
+As for my Sinc, it&rsquo;s taken a beating and is on the injured list. So I resurrected the Quefrency 60% with a new approach. First I tried them with UT4s and the keys felt really snappy with my SA Dualshot ABS keycaps, but the sound was not great. I swapped the switches with the U4s in the V8. The V8 at least has a case, although it could use some foam to thock the sound of the U4Ts up. Silent switches on the 60% case-less split makes the most sense to me.
+
+Back to gaming, though. I also realized that having <kbd>Control</kbd>l in place of <kbd>Caps Lock</kbd> in the home row is very handy for sprinting in the game. So now I have three Control keys: one to the left of <kbd>A</kbd>, and two in the opposite corners.
+
+All modifiers and function keys are available on both sides of the board now. The previous 61-key layout sacrificed  Right <kbd>Command</kbd>.
+
+Arrow and navigation clusters on a layer are accessible to both sides:
+
+- Left side: Based around WASD
+- Right side: HHKB conventions
+
+But fear not, <kbd>Caps Lock</kbd> Lovers! I kept it on the bottom row between <kbd>Command</kbd> and Right <kbd>Alt</kbd>. And a stepped 1.75U cap even! A nice remedy to the arrow blocker gap this arrow-less configuration has.
+
+The only thing I have on my wish list for this board is a 3D-printed middle layer to show off the RGB underlighting. I don&rsquo;t know if a case from Tree Dog will work for my demo PCB, and maybe it's not worth it.
 
 -----
 
@@ -91,4 +112,4 @@ On macOS, these keys are  <kbd>F13</kbd> and <kbd>F15</kbd>, respectively.
 
 -----
 
-_Last Updated:_ 2022-02-27
+_Last Updated:_ 2025-07-03
