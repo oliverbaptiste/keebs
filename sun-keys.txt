@@ -1,0 +1,41 @@
+Table of special SUN keys and their various key codes. The special function keys are unsupported in Windows, but they can be mapped to an alternative key. These alternative keys report keycodes which can then be used by software such as Hoekey to map them to functions.
+
+
+name		sun code	sun name		usb code	usb name	alternative	alt USB code	alt windows vkey
+
+help		0x76		lf(16)			0x75		help		f13		0x68		124
+stop		0x01		buckybits+systembit 	0x78		stop		f14		0x69		125
+again		0x03		lf(2)			0x79		again		f15		0x6A		126
+props		0x19		lf(3)			0x76		keyboard menu	f16		0x6B		127
+undo		0x1A		lf(4)			0x7A		undo		f17		0x6C		128	
+front		0x31		lf(5)			0x77		select		f18		0x6D		129
+copy		0x33		lf(6)			0x7C		copy		f19		0x6E		130
+open		0x48		lf(7)			0x74		execute		f20		0x6F		131
+paste		0x49		lf(8)			0x7D		paste		f21		0x70		132
+find		0x5F		lf(9)			0x7E		find		f22		0x71		133
+cut		0x61		lf(10)			0x7B		cut		f23		0x72		134
+
+mute		0x2D		rf(4)			0x7F		mute		f24		0x73		135
+vol down	0x02		-			0x81		volume down	intl'1		0x87		193	
+vol up		0x04		-			0x80		volume up	intl'6		0x8C		234
+power		0x30		bf(13)			0x66		keyboard power*	-		-		-
+
+compose		0x43		COMPOSE			0x65		app		right gui
+left meta	0x78		BUCKYBITS+METABIT	0xE3		left gui	left alt
+right meta	0x7A		BUCKYBITS+METABIT	0xE7		right gui	right alt
+escape**	0x1D		ESC			0x29		escape		tilde
+tilde**		0x2A		`			0x35		tilde		escape
+caps lock**	0x77		SHIFTKEYS+CAPSLOCK	0x39		caps lock	control
+control**	0x4C		SHIFTKEYS+LEFTCTRL	0xE0		control		caps lock
+alt		0x13		SHIFTKEYS+ALT		0xE2		left alt	left gui
+alt graph	0x0D		-			0xE6		right alt	right control
+
+Sources used to construct table:
+
+-sun codes: Hyperterminal output of Type 5 keyboard
+-usb codes: keytables.c (OpenSolaris source) & usb_keytables.c (OpenSolaris source)
+-usb names/codes: USB HID to PS/2 Scan Code Translation Table (http://download.microsoft.com/download/1/6/1/161ba512-40e2-4cc9-843a-923143f3456c/translate.pdf)
+-virtual key codes: CharProbe output (http://www.dextronet.com/)
+
+*The "keyboard power" key isn't normally supported by Windows, but it reports a virtual key code of 255, which can be used to map it to various functions.
+**Escape/Tilde and control/caps lock can be swapped because these two combinations are swapped between Unix- and PC-style SUN keyboards.
