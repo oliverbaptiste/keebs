@@ -18,12 +18,18 @@ Colorway and legends from [NicePBT Type 6](https://cannonkeys.com/products/nicep
 
 _96-key QWERTY split staggered keyboard layout_, inspired by Apple, IBM, and Sun keyboards.
 
-* 2u <kbd>Backspace</kbd>
-* 2.25u left _SpaceFn_ key
-* Split right space: convex 1.25u + 1.5u <kbd>Command</kbd> / <kbd>Win</kbd> / <kbd>◆</kbd> key
+## Layout details
+
+* Access to all keycodes found on a full-size US English Apple keyboard
+  * Except a real <kbd>Fn</kbd> (Globe) key
 * Minimum mod width: 1.25u
+  * Sorry, I can't do 1u right mods
+  * I love the 0.5u blocker between Right <kbd>Control</kbd> & the arrow cluster
+* 2u <kbd>Backspace</kbd>
+* 2.25u left _SpaceFn_ key activates Layer 1 on Hold / Space on Tap
+* Split right space: convex 1.25u + 1.5u <kbd>Command</kbd> / <kbd>Win</kbd> / <kbd>Super</kbd> / <kbd>◆</kbd> (Meta) key
 * 0.5u blocker to left of arrow cluster
-* F-row mimics macOS function keys
+* F-row loosely mimics macOS function keys
   * <kbd>Scroll Lock</kbd> / <kbd>F14</kbd> and <kbd>Pause</kbd> / <kbd>F15</kbd> in <kbd>F1</kbd> & <kbd>F2</kbd> position and handle screen brightness
   * Positions <kbd>F3</kbd> & <kbd>F4</kbd> are <kbd>F16</kbd> & <kbd>F17</kbd>
     * Via macOS System Preferences _Keyboard_ pane, I can assign these to:
@@ -32,33 +38,20 @@ _96-key QWERTY split staggered keyboard layout_, inspired by Apple, IBM, and Sun
         * This key was used for Expose back in the day, anyway!
         * When modified with <kbd>Command</kbd>, it will _Show Desktop_
       * _Show Launchpad_
-* Access to all keycodes found on a full-size US English Apple keyboard
-  * Except a real <kbd>Fn</kbd> / “Globe” key
 * Access to all Windows keys except <kbd>Menu</kbd>
   * Use <kbd>Shift</kbd> + <kbd>F10</kbd> instead
-* Left-side: Navigation cluster on layer
-* Right-side: Full Apple numeric keypad on layer
-  * <kbd>Return</kbd> is <kbd>Enter</kbd>
-  * <kbd>N</kbd> is <kbd>Clear</kbd> / <kbd>Num Lock</kbd>
-  * <kbd>=</kbd> is Numpad <kbd>=</kbd>
+* Left-side: Navigation cluster on Layer 1
+* Right-side: Full Apple numeric keypad on Layer 1
+  * <kbd>Return</kbd>: Numpad <kbd>Enter</kbd>
+  * <kbd>-</kbd> (hyphen-minus): <kbd>Clear</kbd> (macOS) / <kbd>Num Lock</kbd> (Win)
+  * <kbd>=</kbd>: Numpad <kbd>=</kbd> (macOS)
 * <kbd>F13</kbd> / <kbd>Print Screen</kbd>
-* <kbd>Home</kbd> key in <kbd>F14</kbd> position
+* <kbd>Del</kbd> key in <kbd>F14</kbd> position
 * <kbd>Escape</kbd> is <kbd>Eject</kbd> key on layer
-* ~~2 rotary encoders soldered in corners~~
 
-## Layout options
+## TODO
 
-* 1.5u <kbd>Backspace</kbd>
-* F-row <kbd>Escacpe</kbd> key replaced with <kbd>Help</kbd>, <kbd>Print Screen</kbd>, <kbd>⏻</kbd>, or blank keycap
-* <kbd>Print Screen / SysReq</kbd> key in <kbd>F13</kbd> position
-* <kbd>Scroll Lock</kbd> on <kbd>Fn</kbd>+ <kbd>F8</kbd>, seen as <kbd>F14</kbd> on macOS
-* <kbd>Pause</kbd> on <kbd>Fn</kbd> + <kbd>Stop</kbd>, seen as <kbd>F15</kbd> on macOS
-* <kbd>F16</kbd> … <kbd>F19</kbd> on <kbd>Fn</kbd> layer of left column macro keys
-* <kbd>Delete</kbd> key to right of <kbd>Backspace</kbd>
-* Key to right of <kbd>Up</kbd> is <kbd>End</kbd> on tap, and <kbd>Fn</kbd> on hold
-* <kbd>`</kbd> key is <kbd>Escape</kbd> on layer
-* F-row <kbd>Escacpe</kbd> key replaced with <kbd>Help</kbd>, <kbd>Print Screen</kbd>, <kbd>⏻</kbd>, or blank keycap
-* [ ] 10 [Sun fun cluster](https://deskthority.net/wiki/Fun_cluster#Sun) layer on macro section:
+* [x] 11-key [Sun fun cluster](https://deskthority.net/wiki/Fun_cluster#Sun) macro section on Layer 1:
   * <kbd>Stop</kbd> <kbd>Again</kbd>
   * <kbd>Props</kbd> <kbd>Undo</kbd>
   * <kbd>Front</kbd> <kbd>Copy</kbd>
