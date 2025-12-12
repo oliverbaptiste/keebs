@@ -21,10 +21,10 @@ Checked items indicate a keyboard I have built or came pre-assembled.
 ### Keebio
 
 * [x] [BDN9 Rev. 2 macropad](keebio/bdn9-rev2.md) - 8 keys + knob
-* [x] [Quefrency Rev. 4 - split 60%](keebio-quefrency-rev4-60.md) - 65 keys
-* [x] [Sinc Rev. 4 - split 75% +  macro](keebio-sinc-rev4-75-macro.md) - 96 keys
-* [x] [Quefrency Rev. 2 - split 65%](keebio-quefrency-rev2-65.md) - 69 keys ☜ _on injured list_
-* [ ] [Quefrency Rev. 2 - split 65XT](keebio-quefrency-rev2-65-macro.md) - 79 keys
+* [x] [Quefrency Rev. 4 - split 60%](keebio/quefrency-rev4-60.md) - 65 keys
+* [x] [Sinc Rev. 4 - split 75% +  macro](keebio/sinc-rev4-75-macro.md) - 96 keys
+* [x] [Quefrency Rev. 2 - split 65%](keebio/quefrency-rev2-65.md) - 69 keys ☜ _on injured list_
+* [ ] [Quefrency Rev. 2 - split 65XT](keebio/quefrency-rev2-65-macro.md) - 79 keys
 
 ### Keychron
 
