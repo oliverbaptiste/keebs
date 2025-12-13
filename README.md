@@ -11,7 +11,7 @@ date: 2025-12-12
 
 ## Keyboards
 
-<input type="checkbox"> - indicates a kit yet to be assembled
+Unchecked item indicates a kit yet to be assembled:
 
 ### Keebio
 
