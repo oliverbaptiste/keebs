@@ -32,15 +32,15 @@ Unchecked item indicates a kit yet to be assembled:
 
 ### Weikav
 
-* [x] [STARS21 numeric keypad](keyboards/Stars21/stars21-product-manual.md)
+* [x] [STARS21 numeric keypad](keyboards/weikav/stars21-product-manual.md)
 
 ### ai03
 
-* [ ] [Soyuz numpad with my **ZeroFn** layout](keyboards/ai03-soyuz-numpad-zerofn.md)
+* [ ] [Soyuz numpad with my **ZeroFn** layout](keyboards/ai03/soyuz-numpad-zerofn.md)
 
 ## Keycaps
 
-* [MT3 keycaps](keycaps/mt3-keycaps.md)
+* [MT3 keycaps](keycaps/drop-mt3-profile.md)
 * [Signature Plastics SA Novelty keycaps](keycaps/sp-sa-novelty.md)
 
 -----
