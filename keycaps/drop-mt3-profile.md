@@ -1,14 +1,16 @@
 ---
 author: Oliver G. A. Baptiste
-date: 2024-06-29
+date: 2026-10-27
 ---
 # MT3 profile keycaps
 
 **MT3** is a keycap profile designed by [Matt3o](https://matt3o.com) that is only available from [Drop](https://drop.com/home).
 
-Double-shot ABS MT3 keycap sets only have R4 angled bottom rows, and don't have convex spacebars smaller than 2u.
+As of this file's last edit, the only MT3 keyset still available for sale is [Drop + Nuka-Cola™ MT3 Keycap Set](https://www.corsair.com/us/en/p/MDX-38466-1). Since Corsair closed the Drop storefront in March 2026, links to other keysets no longer work.
 
-I prefer a flat bottom row. Only dye-sublimated PBT MT3 keycap sets have an **R5 flat bottom row** available.
+Double-shot ABS MT3 keycap sets only have R4 angled bottom rows, and do not have convex spacebars smaller than 2u.
+
+I prefer a flat bottom row. Only dye-sublimated PBT MT3 keycap sets had an **R5 flat bottom row** available.
 
 I also use a **1.25u convex spacebar** on my [Keebio Sinc Rev. 4](https://keeb.io/products/sinc-rev-4-split-staggered-75-keyboard).
 
@@ -23,3 +25,4 @@ I've found five (5) sets that meet both of these criteria:
 | **[Drop + Zambumon MT3 Serika R2 Keycap Set](https://drop.com/buy/drop-zambumon-mt3-serika-custom-keycap-set)** | Yes | Yes ([Latin 40s](https://drop.com/buy/drop-zambumon-mt3-serika-custom-keycap-set?defaultSelectionIds=973448), [Katakana 40s](https://drop.com/buy/drop-zambumon-mt3-serika-custom-keycap-set?defaultSelectionIds=973446)) |
 | [Drop + MiTo Godspeed R2 Keycap Set](https://drop.com/buy/drop-mito-mt3-godspeed-custom-keycap-set) | Yes | No |
 | [Drop + MiTo MT3 9009 PBT Keycap Set](https://drop.com/buy/mt3-9009-pbt-keycap-set) | Yes | No |
+| [Drop + Nuka-Cola™ MT3 Keycap Set]() | No | No |
