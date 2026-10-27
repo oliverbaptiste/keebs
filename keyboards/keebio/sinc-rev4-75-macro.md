@@ -43,7 +43,7 @@ _96-key QWERTY split staggered keyboard layout_, inspired by Apple, IBM, and Sun
 * Left-side: Navigation cluster on Layer 1
 * Right-side: Full Apple numeric keypad on Layer 1
   * <kbd>Return</kbd>: Numpad <kbd>Enter</kbd>
-  * <kbd>-</kbd> (hyphen-minus): <kbd>Clear</kbd> (macOS) / <kbd>Num Lock</kbd> (Win)
+  * <kbd>N</kbd> (hyphen-minus): <kbd>Clear</kbd> (macOS) / <kbd>Num Lock</kbd> (Win)
   * <kbd>=</kbd>: Numpad <kbd>=</kbd> (macOS)
 * <kbd>F13</kbd> / <kbd>Print Screen</kbd>
 * <kbd>Del</kbd> key in <kbd>F14</kbd> position
