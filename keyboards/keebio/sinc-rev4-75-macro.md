@@ -20,7 +20,11 @@ _96-key QWERTY split staggered keyboard layout_, inspired by Apple, IBM, and Sun
 
 ## Layout details
 
-* Access to all 108 keycodes found on a full-size US English Apple keyboard with numeric keypad 
+* Access to up to 108 keys found on Apple keyboards with numeric keypads
+  * No Touch ID key
+  * <kbd>Fn</kbd>-<kbd>\\</kbd>: <kbd>Insert</kbd> (Windows) / <kbd>Help</kbd> (macOS)
+    * Apple used to have <kbd>Help</kbd> or <kbd>Fn</kbd> key in top-left of nav cluster
+    * **Magic Keyboard with Touch ID and Numeric Keypad (USB-C)** replace this with <kbd>Menu</kbd> key
   * <kbd>Fn</kbd> (Globe) key access available via [Karabiner-Elements](https://karabiner-elements.pqrs.org)
 * Minimum mod width: 1.25u
   * Sorry, I can't do 1u right mods
