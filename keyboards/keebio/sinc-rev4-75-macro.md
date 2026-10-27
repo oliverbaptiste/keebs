@@ -20,8 +20,8 @@ _96-key QWERTY split staggered keyboard layout_, inspired by Apple, IBM, and Sun
 
 ## Layout details
 
-* Access to all keycodes found on a full-size US English Apple keyboard
-  * Except a real <kbd>Fn</kbd> (Globe) key
+* Access to all 108 keycodes found on a full-size US English Apple keyboard with numeric keypad 
+  * A “real” <kbd>Fn</kbd> (Globe) key available via [Karabiner-Elements](https://karabiner-elements.pqrs.org)
 * Minimum mod width: 1.25u
   * Sorry, I can't do 1u right mods
   * I love the 0.5u blocker between Right <kbd>Control</kbd> & the arrow cluster
