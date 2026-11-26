@@ -13,6 +13,10 @@ date: 2026-10-27
 
 Unchecked item indicates a kit yet to be assembled:
 
+```javascript
+console.log('Hello, World!)'
+```
+
 ### Keebio
 
 * [x] [BDN9 Rev. 2 macropad](keyboards/keebio/bdn9-rev2.md) - 8 keys + knob
